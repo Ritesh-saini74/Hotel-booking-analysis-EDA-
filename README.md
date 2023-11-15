@@ -1,6 +1,7 @@
 # Hotel-booking-analysis-EDA-
 
 Problem Statement: 
+
 For this project we will be analyzing Hotel Booking data. This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces.
 
 Hotel industry is a very volatile industry and the bookings depends on above factors and many more
@@ -8,6 +9,7 @@ Hotel industry is a very volatile industry and the bookings depends on above fac
 The main objective behind this project is to explore and analyze data to discover important factors that govern the bookings and give insights to hotel management which can perform various campaigns to boost the business and performance.
 
 Project Summary:
+
 In this dataset ,There are 119390 rows and 32 columns in which Hotel Booking comprises of two types of hotels i.e City Hotel and Resort Hotel.
 All the columns are divided into three dtypes :-Object,Float64 and int64.
 In this project, we have divided the data manipulation workflow into three different categories i.e. Data Collection ,Data cleaning and manipulation and EDA(Exploratory Data Analysis)
@@ -29,6 +31,7 @@ Then,we have also used the corelation matrix to get the relaionships between the
 Thus,we have Explored and analyzed the data to discover important factors that govern the bookings .
 
 Conclusion:
+
 City hotels are the most preferred hotel type by the guests.So, We can say that City hotels are the busiest hotel in comparision to the resort hotel.
 
 The average ADR of city hotels is higher as compared to the resort hotels. So,it can be said that these City hotels are generating more revenue than the resort hotels.
